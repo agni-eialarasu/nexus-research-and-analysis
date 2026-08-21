@@ -9,6 +9,8 @@ This repository contains reverse-engineering evaluation documents for the **Nexu
 | [Backend Evaluation](./docs/backend-evaluation.md) | Complete technical evaluation of `nexus-backend` |
 | [Frontend Evaluation](./docs/frontend-evaluation.md) | Complete technical evaluation of `nexus-frontend` |
 | [System Overview](./docs/system-overview.md) | Combined architecture showing how frontend & backend integrate |
+| [Architecture Decisions](./docs/architecture-decisions.md) | Nexus v2 rebuild decisions (Flutter + Supabase stack, RBAC, multi-tenancy) |
+| [Beacon Module Analysis](./docs/beacon-module-analysis.md) | Deep-dive into the Business Capability Model module (data model, scoring, views, rebuild recommendations) |
 
 ## Repositories Analyzed
 
